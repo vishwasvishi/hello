@@ -1,1 +1,2 @@
-enimes ahead("get to the safe zoner")
+enimes ahead("get to the safe zone")
+follow me
